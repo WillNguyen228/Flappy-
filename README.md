@@ -2,6 +2,8 @@
 
 This repository demonstrates the fundamentals of deep learning by building a gesture recognition system that controls a Flappy Bird game. The project walks through the complete machine learning pipeline: environment setup, data collection, model training, and real-world application.
 
+![Gameplay Screenshot](img/gameplay.png)
+
 ## Project Purpose
 
 Learn the basics of deep learning by:
