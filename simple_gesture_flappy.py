@@ -68,7 +68,7 @@ def draw_gesture_status():
 	
 	# Show if ready to jump
 	if is_active:
-		draw_text("✌️ Jumping!", small_font, green, 10, screen_height - 25)
+		draw_text("Jumping!", small_font, green, 10, screen_height - 25)
 
 
 def reset_game():
